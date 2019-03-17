@@ -1,0 +1,25 @@
+body {
+	background-color: #ffefdf;
+	color: #000000;
+}
+
+blockquote {
+	border-left:0.1em solid #000000;
+	padding-left: 0.5em;
+}
+
+p code {
+	background-color: #f0f0f0;
+}
+
+#menu {
+	background-color: #e86050;
+}
+
+#menu a {
+	color: #404040;
+}
+
+#menu .pure-menu li a:hover {
+	background-color: #fe7060;
+}
