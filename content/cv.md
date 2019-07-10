@@ -55,7 +55,7 @@ Lin, R., Teng, Y., Park, H.J., Ding, L., **Black, C.**, Fang, P., Wang, H. 2008.
 
 ## Posters
 
-<!-- not yet presented: SEB 2019 poster -->
+**Black, C.K.**, Schäfer, E.D., Lynch, J.P. July 2019. Add grit for traction: Pushing a root growth model toward meaningful soil parameters. Society for Experimental Biology annual meeting.
 
 **Black, C.K.**, Schäfer, E.D., Lynch, J.P. December 2018. Better modeling of root-soil interactions by explicit representation of soil hardness. American Geophysical Union annual meeting.
 
