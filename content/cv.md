@@ -18,6 +18,8 @@ B.A., Biology. Reed College 2008.
 
 ## Publications
 
+Schnepf, A., **Black, C.K.**, Couvreur, V., Delory, B.M., Doussan, C., Koch, A., Koch, T., Javaux, M., Landl, M., Leitner, D., Lobet, G., Mai, T.H., Meunier, F., Petrich, L., Postma, J.A., Priesack, E., Schmidt, V., Vanderborght, J., Vereecken, H., Weber, M. Call for participation: Collaborative benchmarking of functional-structural root architecture models. The case of root water uptake. Submitted. Preprint available at [https://doi.org/10.1101/808972](https://doi.org/10.1101/808972)
+
 **Black, C.K.**, Woolbright, S.A., Pederson, T.L., Sligar, C.R., DeLucia, E.H. Metagenomic sequencing of soil cores shows taxonomic partitioning of root placement by depth in a prairie plant community. Submitted. Text, data, and code available at [https://github.com/infotroph/Prairie_seq](https://github.com/infotroph/Prairie_seq)
 
 **Black, C.K.**, Masters, M.D., LeBauer, D.S., Anderson-Teixeira, K.J., DeLucia, E.H. 2017. Root volume distribution of maturing perennial grasses revealed by correcting for minirhizotron surface effects. Plant and Soil 419:391-404. DOI: [10.1007/s11104-017-3333-7](http://dx.doi.org/10.1007/s11104-017-3333-7). Data available in Dryad: [http://dx.doi.org/10.5061/dryad.79822](http://dx.doi.org/10.5061/dryad.79822)
