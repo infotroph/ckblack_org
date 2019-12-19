@@ -18,6 +18,8 @@ B.A., Biology. Reed College 2008.
 
 ## Publications
 
+Postma, J.A., **Black, C.K.**. Advances in root architectural modeling during the last decade. In: Understanding and improving crop root function (Peter Gregory, ed.). Burleigh-Dodds. In press, expected June 2020. ISBN: 9781786763600
+
 Schnepf, A., **Black, C.K.**, Couvreur, V., Delory, B.M., Doussan, C., Koch, A., Koch, T., Javaux, M., Landl, M., Leitner, D., Lobet, G., Mai, T.H., Meunier, F., Petrich, L., Postma, J.A., Priesack, E., Schmidt, V., Vanderborght, J., Vereecken, H., Weber, M. Call for participation: Collaborative benchmarking of functional-structural root architecture models. The case of root water uptake. Submitted. Preprint available at [https://doi.org/10.1101/808972](https://doi.org/10.1101/808972)
 
 **Black, C.K.**, Woolbright, S.A., Pederson, T.L., Sligar, C.R., DeLucia, E.H. Metagenomic sequencing of soil cores shows taxonomic partitioning of root placement by depth in a prairie plant community. Submitted. Text, data, and code available at [https://github.com/infotroph/Prairie_seq](https://github.com/infotroph/Prairie_seq)
